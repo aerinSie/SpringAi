@@ -1,4 +1,11 @@
 # ENV
+- OLLAMA
+```
+ollama pull qwen2:0.5b
+    
+ollama pull mofanke/dmeta-embedding-zh:latest
+```
+- PGVECTOR
 ```cmd
 docker-compose up pgvector
 ```
