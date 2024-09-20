@@ -1,6 +1,6 @@
 # ENV
-```
-docker compose up
+```cmd
+docker-compose up pgvector
 ```
 # RUN
 
